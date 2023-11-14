@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mastercheffpoli","c":"MasterCheffPoli","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"mastercheffpoli","c":"MasterCheffPoli","l":"MasterCheffPoli()","u":"%3Cinit%3E()"}];updateSearchResults();
